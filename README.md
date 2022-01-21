@@ -6,7 +6,6 @@
   * [Installation](#installation)
   * [Directory Tree](#directory-tree)
   * [Bug / Feature Request](#bug---feature-request)
-  * [Future scope of project](#future-scope)
 
 
 
@@ -44,9 +43,3 @@ pip install -r requirements.txt
 ## Bug / Feature Request
 
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/BHariKrishnaReddy/Flight-Fare/issues) here by including your search query and the expected result
-
-## Future Scope
-
-* Use multiple Algorithms
-* Optimize Flask app.py
-* Front-End 
